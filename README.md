@@ -1,0 +1,2 @@
+# BlueMedicalWebApp
+Administrador de Activos
